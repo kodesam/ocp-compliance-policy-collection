@@ -1,1 +1,1 @@
-# do480-policy-collection
+# policy-collection
